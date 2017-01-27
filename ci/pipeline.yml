@@ -11,8 +11,8 @@ resources:
     api: api.run-02.haas-66.pez.pivotal.io
     username: {{cf-user}}
     password: {{cf-password}}
-    organization: <YOUR_ORG>
-    space: <YOUR_SPACE>
+    organization: kkrishna-pal
+    space: replatform
     skip_cert_check: true
 
 jobs:
